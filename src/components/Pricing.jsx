@@ -9,15 +9,10 @@ const Pricing = () => {
 
       <div className="max-w-[1240px] mx-auto py-12">
         <div className="text-center py-8 text-slate-300">
-          <h2 className="text-3xl uppercase">Contact Us</h2>
+          <h2 className="text-3xl uppercase">Pricing</h2>
           <h3 className="text-5xl font-bold text-white py-8">
-            Get in touch with us for all your digital needs
+            Value-driven pricing for sustainable growth
           </h3>
-          {/* <p className="text-3xl">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia
-            laudantium odio ullam inventore aliquid ipsum quasi tenetur velit
-            voluptatum iste.
-          </p> */}
         </div>
 
         <div className="grid md:grid-cols-2">

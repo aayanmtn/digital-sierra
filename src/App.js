@@ -1,5 +1,6 @@
 import About from './components/About';
 import AllInOne from './components/AllInOne';
+import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar'
@@ -15,6 +16,7 @@ function App() {
       <Support />
       <AllInOne />
       <Pricing />
+      <ContactUs />
       <Footer />
     </>
   );

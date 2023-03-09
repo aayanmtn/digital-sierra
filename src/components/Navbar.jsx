@@ -42,6 +42,11 @@ const Navbar = () => {
                 Pricing
               </Link>
             </li>
+            <li>
+              <Link to="contact" smooth={true} offset={-50} duration={500}>
+                Contact Us
+              </Link>
+            </li>
           </ul>
         </div>
         {/* <div className='hidden md:flex pr-4'>
