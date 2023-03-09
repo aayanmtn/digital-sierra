@@ -27,9 +27,7 @@ const Support = () => {
           <p className="py-4 text-3xl text-slate-300 text-center">
             Our experienced team offers full-stack development, quality
             assurance, and ongoing support to ensure your applications are
-            secure, reliable, and up-to-date. We prioritize communication,
-            transparency, and collaboration to deliver custom solutions tailored
-            to your unique business needs.
+            secure, reliable, and up-to-date.
           </p>
         </div>
 

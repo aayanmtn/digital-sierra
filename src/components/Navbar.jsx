@@ -111,12 +111,12 @@ const Navbar = () => {
           </Link>
         </li>
 
-        <div className="flex flex-col my-4">
+        {/* <div className="flex flex-col my-4">
           <button className="bg-transparent text-indigo-600 px-8 py-3 mb-4">
             Sign In
           </button>
           <button className="px-8 py-3">Sign Up</button>
-        </div>
+        </div> */}
       </ul>
     </div>
   );

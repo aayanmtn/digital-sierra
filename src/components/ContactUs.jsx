@@ -14,13 +14,13 @@ function ContactUs() {
 
           <div className="grid md:grid-cols-2 gap-1 px-2 text-center">
             <div className="border py-8 rounded-xl shadow-xl">
-              <p className="text-6xl font-bold text-indigo-600">
+              <p className="text-4xl font-bold text-indigo-600">
                 test@email.com
               </p>
               <p className="text-gray-400 mt-2">Our Email Address</p>
             </div>
             <div className="border py-8 rounded-xl shadow-xl">
-              <p className="text-6xl font-bold text-indigo-600">
+              <p className="text-4xl font-bold text-indigo-600">
                 +91 9876235521
               </p>
               <p className="text-gray-400 mt-2">Our Phone Number</p>
